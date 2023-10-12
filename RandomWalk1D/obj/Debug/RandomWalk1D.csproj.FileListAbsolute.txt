@@ -1,0 +1,20 @@
+C:\Users\0319be\Downloads\RandomWalk1D\RandomWalk1D\bin\Debug\RandomWalk1D.exe.config
+C:\Users\0319be\Downloads\RandomWalk1D\RandomWalk1D\bin\Debug\RandomWalk1D.exe
+C:\Users\0319be\Downloads\RandomWalk1D\RandomWalk1D\bin\Debug\RandomWalk1D.pdb
+C:\Users\0319be\Downloads\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.csprojResolveAssemblyReference.cache
+C:\Users\0319be\Downloads\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.Form1.resources
+C:\Users\0319be\Downloads\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.Properties.Resources.resources
+C:\Users\0319be\Downloads\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.csproj.GenerateResource.Cache
+C:\Users\0319be\Downloads\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.exe
+C:\Users\0319be\Downloads\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.pdb
+E:\CPS LAB\RandomWalk1D\RandomWalk1D\bin\Debug\RandomWalk1D.exe.config
+E:\CPS LAB\RandomWalk1D\RandomWalk1D\bin\Debug\RandomWalk1D.exe
+E:\CPS LAB\RandomWalk1D\RandomWalk1D\bin\Debug\RandomWalk1D.pdb
+E:\CPS LAB\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.csproj.AssemblyReference.cache
+E:\CPS LAB\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.csproj.SuggestedBindingRedirects.cache
+E:\CPS LAB\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.Form1.resources
+E:\CPS LAB\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.Properties.Resources.resources
+E:\CPS LAB\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.csproj.GenerateResource.cache
+E:\CPS LAB\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.csproj.CoreCompileInputs.cache
+E:\CPS LAB\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.exe
+E:\CPS LAB\RandomWalk1D\RandomWalk1D\obj\Debug\RandomWalk1D.pdb
